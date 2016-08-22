@@ -1,2 +1,5 @@
 # board
-Private repo
+Board is a dashboard to show the data.
+
+##License
+MIT
